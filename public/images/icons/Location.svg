@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Location" transform="translate(-139 -1592)">
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="19" height="19" rx="3" transform="translate(139 1592)"/>
+    <g id="pin" transform="translate(59.667 1596)">
+      <g id="Group_17" data-name="Group 17" transform="translate(85.333)">
+        <path id="Path_3" data-name="Path 3" class="cls-1" d="M89.1,0a3.772,3.772,0,0,0-3.319,5.564L88.9,11.193a.236.236,0,0,0,.412,0l3.114-5.631A3.772,3.772,0,0,0,89.1,0Zm0,5.657A1.886,1.886,0,1,1,90.99,3.771,1.888,1.888,0,0,1,89.1,5.657Z" transform="translate(-85.333)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Mail" transform="translate(-139 -1592)">
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="19" height="19" rx="3" transform="translate(139 1592)"/>
+    <g id="close-envelope" transform="translate(143 1596)">
+      <g id="Group_20" data-name="Group 20" transform="translate(0 2)">
+        <path id="Path_4" data-name="Path 4" class="cls-1" d="M5.678,8.7,4.289,7.484.316,10.89a.813.813,0,0,0,.554.217h9.616a.807.807,0,0,0,.552-.217L7.068,7.484Z" transform="translate(-0.062 -3.084)"/>
+        <path id="Path_5" data-name="Path 5" class="cls-1" d="M11.041,2.217A.808.808,0,0,0,10.487,2H.871a.8.8,0,0,0-.553.219L5.679,6.814Z" transform="translate(-0.063 -2)"/>
+        <path id="Path_6" data-name="Path 6" class="cls-1" d="M0,2.878V9.543L3.877,6.248Z" transform="translate(0 -2.174)"/>
+        <path id="Path_7" data-name="Path 7" class="cls-1" d="M9.167,6.248l3.877,3.295V2.875Z" transform="translate(-1.813 -2.173)"/>
+      </g>
+    </g>
+  </g>
+</svg>
